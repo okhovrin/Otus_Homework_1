@@ -10,6 +10,7 @@ public class Main {
         System.out.println(duck);
 
         duck.iCanEat();
+        animal.iCanEat();
 //        System.out.println(animal.toString());
     }
 }
